@@ -48,5 +48,6 @@ I am a person recognized throughout my career for my professionalism, quick lear
 
 ##
 	
-### 🕵️‍♂️ Total visits on profile:
+### :shipit: Total visits on profile:
+
 <img alingn="center" src="https://profile-counter.glitch.me/T4RUM/count.svg" />
