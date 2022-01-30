@@ -1,52 +1,52 @@
-<!--
-## Hello World, I'am Wesley Murat
-- 💻 Full Stack Developer
-- 👨‍💻 I'm currently working at <a href="http://www.tantto.com.br/pt/#/home" target="_blank">TANTTO_BR</a>.
-- 👨‍🎓 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank">Etec Fernando Prestes</a> (2018 - 2020).
-- 📚 I’m currently taking in online degree in Internet Systems at <a href="https://portal.fmu.br/" target="_blank">FMU</a> (2021 - 2023).
-- 🌱 I’m currently learning: PHP, .NET and TypeScript.
+## 🏴‍☠️ Hello World, I'am Wesley Murat
+I am a person recognized throughout my career for my professionalism, quick learning and results obtained, in a resilient way I seek to overcome my limits and always act beyond my capabilities in order to achieve results above expectations. I always seek to increase my knowledge in the area of Cyber Security and the areas that permeate it, through events, courses, workshops, and Meetups.
+
+- 💻 Cyber Security Analyst - Offensive Security
+- 👨‍🎓 Graduated in Instituto Federal de Educação, Ciência e Tecnologia de São Paulo at <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a>.
+- 📚 I’m currently taking in online degree in Tecnólogo, Segurança da informação at <a href="https://inscricao.estacio.br/?gclid=EAIaIQobChMIzvDpqc3Z9QIVFwaRCh18igeFEAAYASAAEgJrKvD_BwE" target="_blank">Estácio</a>.
+- 🌱 I’m currently learning: Cybersecurity and Python.
 
 ##
 
-### My Skills:
+### ⚡ My Skills:
 <div style="display: inline_block">
-	<img align="center" alt="EliasMurat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="EliasMurat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="EliasMurat-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="EliasMurat-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-	<img align="center" alt="EliasMurat-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="EliasMurat-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="EliasMurat-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="EliasMurat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="EliasMurat-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="EliasMurat-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="EliasMurat-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="EliasMurat-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="EliasMurat-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="EliasMurat-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="EliasMurat-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="EliasMurat-SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+	<img align="center" alt="T4RUM-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<img align="center" alt="T4RUM-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+	<img align="center" alt="T4RUM-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+	<img align="center" alt="T4RUM-VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+	<img align="center" alt="T4RUM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="T4RUM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="T4RUM-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="T4RUM-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+	<img align="center" alt="T4RUM-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+	<img align="center" alt="T4RUM-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img align="center" alt="T4RUM-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  	<img align="center" alt="T4RUM-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img align="center" alt="T4RUM-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+	<img align="center" alt="T4RUM-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 	
+	<img align="center" alt="T4RUM-SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
 ##
 
-### Contact:
+### ☎ Contact:
 <div> 
-  <a href="https://www.linkedin.com/in/elias-murat" target="_blank">
+  <a href="https://www.linkedin.com/in/wesley-murat/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
 
 ##
 
-### More info:
+### 📈 More info:
 <div>
-  <a href="https://github.com/EliasMurat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/T4RUM">
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4RUM&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4RUM&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  </a>
 </div>
 
-<br>
+##
 	
-> ⚠ The graphics may not correctly represent the most used languages or the total of activities. 
--->
+### 🕵️‍♂️ Total visits on profile:
+<img alingn="center" src="https://profile-counter.glitch.me/T4RUM/count.svg" />
