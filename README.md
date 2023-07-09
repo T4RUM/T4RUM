@@ -30,9 +30,9 @@ I am a person recognized throughout my career for my professionalism, quick lear
 <a href="https://github.com/T4RUM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=T4RUM&include_all_commits=true&count_private=true&theme=midnight-purple" />
 </a>
-<!-- <a href="https://github.com/T4RUM">
+<a href="https://github.com/T4RUM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=T4RUM&card_width=180&theme=midnight-purple" />
-</a> -->
+</a>
 
 ##
 
