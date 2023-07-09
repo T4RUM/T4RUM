@@ -28,18 +28,10 @@ I am a person recognized throughout my career for my professionalism, quick lear
 ![](https://komarev.com/ghpvc/?username=T4RUM&label=👁️&color=6a0dad)
 
 <a href="https://github.com/T4RUM">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=T4RUM&include_all_commits=true&count_private=true&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=T4RUM&include_all_commits=true&count_private=true&theme=midnight-purple" />
 </a>
-
 <a href="https://github.com/T4RUM">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4RUM&hide=assembly,pascal,pawn,makefile&layout=compact&langs_count=6&theme=midnight-purple" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=T4RUM&card_width=180&theme=midnight-purple" />
 </a>
 
 ##
