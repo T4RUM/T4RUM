@@ -35,6 +35,7 @@ I am a person recognized throughout my career for my professionalism, quick lear
 </a>
 
 ##
+
 <p align="right">
 	<a style="float: right;" href="https://imgur.com/vHhblnR">
 		<img style="float: right; width: 415px; height: 250px;" src="https://imgur.com/vHhblnR.gif" title="source: imgur.com" />			
